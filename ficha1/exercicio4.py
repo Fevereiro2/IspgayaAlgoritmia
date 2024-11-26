@@ -1,5 +1,5 @@
 def main():
-    peso, altura = float(input("Digite seu peso (kg): ")), float(input("Digite sua altura (m): "))
+    peso, altura = float(input("Escreva o seu peso (kg): ")), float(input("Escreva a sua altura (m): "))
     imc = peso / (altura ** 2)
     print(f"IMC: {imc:.2f}", "Classificação:",
           "Abaixo do peso" if imc < 18.5 else
