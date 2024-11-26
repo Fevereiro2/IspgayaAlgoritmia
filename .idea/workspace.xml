@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce2ad60-4a23-49d2-af52-3db670bfea60" name="Changes" comment="✅ upload files">
-      <change afterPath="$PROJECT_DIR$/exercice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio8.py" afterDir="false" />
+    <list default="true" id="dce2ad60-4a23-49d2-af52-3db670bfea60" name="Changes" comment="✅ make first 10 exercices, all correct">
+      <change afterPath="$PROJECT_DIR$/ficha1/exercice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha1/exercicio9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,11 +59,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.exercice1.executor": "Run",
+    "Python.exercicio10.executor": "Run",
     "Python.exercicio3.executor": "Run",
     "Python.exercicio4.executor": "Run",
     "Python.exercicio5.executor": "Run",
     "Python.exercicio6.executor": "Run",
     "Python.exercicio7.executor": "Run",
+    "Python.exercicio8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -72,6 +76,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\IspgayaProgramas\pythonProject1\ficha1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="exercicio3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -87,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pedro\IspgayaProgramas\pythonProject1\ficha1\exercicio3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732632120840</updated>
-      <workItem from="1732632122218" duration="2721000" />
+      <workItem from="1732632122218" duration="3058000" />
     </task>
     <task id="LOCAL-00001" summary="✅ upload files">
       <option name="closed" value="true" />
@@ -128,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732632490667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="✅ make first 10 exercices, all correct">
+      <option name="closed" value="true" />
+      <created>1732635204701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732635204701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,14 +153,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="✅ upload files" />
-    <option name="LAST_COMMIT_MESSAGE" value="✅ upload files" />
+    <MESSAGE value="✅ make first 10 exercices, all correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="✅ make first 10 exercices, all correct" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject1$exercice1.coverage" NAME="exercice1 Coverage Results" MODIFIED="1732633514808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio5.coverage" NAME="exercicio5 Coverage Results" MODIFIED="1732634592304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$exercicio8.coverage" NAME="exercicio8 Coverage Results" MODIFIED="1732634927788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio7.coverage" NAME="exercicio7 Coverage Results" MODIFIED="1732634748076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio3.coverage" NAME="exercicio3 Coverage Results" MODIFIED="1732634481389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio6.coverage" NAME="exercicio6 Coverage Results" MODIFIED="1732634659503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio4.coverage" NAME="exercicio4 Coverage Results" MODIFIED="1732634490440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$exercicio10.coverage" NAME="exercicio10 Coverage Results" MODIFIED="1732635134914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
