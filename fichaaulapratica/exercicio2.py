@@ -1,4 +1,4 @@
-def calcular_ia(nome_comprador, marca, modelo, cilindrada):
+def calcular_ia(cilindrada):
     if cilindrada <= 1250:
         taxa = 3.74
         parcelas = 2417.56
@@ -16,7 +16,7 @@ def main():
     modelo = input("Qual é o modelo do veículo? ")
     cilindrada = int(input("Qual é a cilindrada do motor? "))
 
-    ia = calcular_ia(nome_comprador, marca, modelo, cilindrada)
+    ia = calcular_ia(cilindrada)
 
     print(f"Nome do comprador: {nome_comprador}")
     print(f"Marca do veículo: {marca}")

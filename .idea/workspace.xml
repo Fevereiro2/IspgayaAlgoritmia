@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce2ad60-4a23-49d2-af52-3db670bfea60" name="Changes" comment="⚙️ Change exercice4 -&gt; trasnlation">
-      <change afterPath="$PROJECT_DIR$/fichaaulapratica/exercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fichaaulapratica/exercicio2.py" afterDir="false" />
+    <list default="true" id="dce2ad60-4a23-49d2-af52-3db670bfea60" name="Changes" comment="✅ make 2 exercices, all correct">
+      <change afterPath="$PROJECT_DIR$/aulateorica/stringsanddocstrings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichaaulapratica/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fichaaulapratica/exercicio2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,20 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Fevereiro2"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fevereiro2&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Fevereiro2/IspgayaAlgoritmia.git",
-    "accountId": "fc507e41-9586-4b1d-9256-f010dfec668d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fevereiro2/IspgayaAlgoritmia.git&quot;,
+    &quot;accountId&quot;: &quot;fc507e41-9586-4b1d-9256-f010dfec668d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "customColor": "d0520aff",
+  "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2pOLLhYQrobUYsbr8lzfC7b20w6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -49,9 +50,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Doctests in stringsanddocstrings.executor": "Run",
     "Python.exercice1.executor": "Run",
     "Python.exercicio1.executor": "Run",
     "Python.exercicio10.executor": "Run",
+    "Python.exercicio2.executor": "Run",
     "Python.exercicio3.executor": "Run",
     "Python.exercicio4.executor": "Run",
     "Python.exercicio5.executor": "Run",
@@ -73,7 +76,7 @@
       <recent name="C:\Users\pedro\IspgayaProgramas\pythonProject1\ficha1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Doctests in stringsanddocstrings">
     <configuration name="exercicio3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -97,8 +100,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Doctests in stringsanddocstrings" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulateorica" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulateorica/stringsanddocstrings.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctests in stringsanddocstrings" />
         <item itemvalue="Python.exercicio3" />
       </list>
     </recent_temporary>
@@ -119,7 +143,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732632120840</updated>
-      <workItem from="1732632122218" duration="5510000" />
+      <workItem from="1732632122218" duration="8244000" />
+      <workItem from="1733840780558" duration="2412000" />
     </task>
     <task id="LOCAL-00001" summary="✅ upload files">
       <option name="closed" value="true" />
@@ -153,26 +178,48 @@
       <option name="project" value="LOCAL" />
       <updated>1732636001045</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="✅ make 2 exercices, all correct">
+      <option name="closed" value="true" />
+      <created>1732638321614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732638321614</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="✅ upload files" />
     <MESSAGE value="✅ make first 10 exercices, all correct" />
     <MESSAGE value="✅ update xml file" />
     <MESSAGE value="⚙️ Change exercice4 -&gt; trasnlation" />
-    <option name="LAST_COMMIT_MESSAGE" value="⚙️ Change exercice4 -&gt; trasnlation" />
+    <MESSAGE value="✅ make 2 exercices, all correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="✅ make 2 exercices, all correct" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject1$exercice1.coverage" NAME="exercice1 Coverage Results" MODIFIED="1732633514808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio5.coverage" NAME="exercicio5 Coverage Results" MODIFIED="1732634592304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$exercicio2.coverage" NAME="exercicio2 Coverage Results" MODIFIED="1732640381676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fichaaulapratica" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio8.coverage" NAME="exercicio8 Coverage Results" MODIFIED="1732634927788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Doctests_in_stringsanddocstrings.coverage" NAME="Doctests in stringsanddocstrings Coverage Results" MODIFIED="1733844907946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulateorica" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio7.coverage" NAME="exercicio7 Coverage Results" MODIFIED="1732634748076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio1.coverage" NAME="exercicio1 Coverage Results" MODIFIED="1732637852292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fichaaulapratica" />
-    <SUITE FILE_PATH="coverage/pythonProject1$exercicio3.coverage" NAME="exercicio3 Coverage Results" MODIFIED="1732634481389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$exercicio3.coverage" NAME="exercicio3 Coverage Results" MODIFIED="1733844019983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio6.coverage" NAME="exercicio6 Coverage Results" MODIFIED="1732634659503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio4.coverage" NAME="exercicio4 Coverage Results" MODIFIED="1732634490440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$exercicio10.coverage" NAME="exercicio10 Coverage Results" MODIFIED="1732635134914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
